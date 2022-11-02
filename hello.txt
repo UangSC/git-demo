@@ -1,5 +1,5 @@
-hello, UangSC! hello Git! 22222222
-hello, UangSC! hello Git! 33333333
+hello, UangSC! hello Git! 2222
+hello, UangSC! hello Git! 3333
 hello, UangSC! hello Git!
 hello, UangSC! hello Git!
 hello, UangSC! hello Git!
