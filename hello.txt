@@ -13,4 +13,4 @@ hello, UangSC! hello Git! master
 hello, UangSC! hello Git! Hot-Fix Test
 22222  By Chu ----------------- By Chu
 33333  By Kuang --------------- By Kuang
-棒
+棒 GitHub Update
