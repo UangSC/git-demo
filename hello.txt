@@ -11,5 +11,4 @@ hello, UangSC! hello Git!
 hello, UangSC! hello Git!
 hello, UangSC! hello Git! master
 hello, UangSC! hello Git! Hot-Fix Test
-2222222222222222222222222 By Chu
-3333333333333333333333333 By Chu
+22222  By Chu
